@@ -1,0 +1,8 @@
+cat > poolMetaData.json << EOF
+{
+"name": "Red Panda",
+"description": "Red Panda Stake Pool",
+"ticker": "PNDA",
+"homepage": "https://git.io/JE3TK"
+}
+EOF
