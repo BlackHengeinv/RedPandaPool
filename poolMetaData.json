@@ -2,6 +2,6 @@
 "name": "Red Panda",
 "description": "Red Panda Stake Pool",
 "ticker": "PNDA",
-"extended": ""
+"extended": "https://github.com/BlackHengeinv/RedPandaPool/blob/main/extended.json"
 "homepage": "https://blackhengeinv.github.io/RedPandaPool/"
 }
